@@ -4,11 +4,20 @@
 
 Jira Templates supercharges your Jira workflow. It allows you to define templates for different Jira ticket types which are automatically applied. If the templates have placeholders, you will then be able to replace them as you go.
 
-## Download
+## Features
+
+- Per project and per issue type templates
+- Navigable placeholders within templates
+- Automatically apply templates when changing issue type
+- Shareable configuration
+
+## Downloads
 
 - [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/jira-templates/)
 - Chrome - _coming soon_
 - Edge - _coming soon_
+
+---
 
 ## Requirements
 

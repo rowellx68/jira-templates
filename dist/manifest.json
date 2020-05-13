@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Jira Templates",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Supercharge your Jira workflow with predefined templates. Create templates with placeholders you could navigate to.",
   "author": "Rowell Heria",
   "homepage_url": "https://rowell.heria.uk/jira-templates",

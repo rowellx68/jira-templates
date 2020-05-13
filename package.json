@@ -1,6 +1,6 @@
 {
   "name": "jira-templates",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Supercharge your Jira workflow with predefined templates. Create templates with placeholders you could navigate to.",
   "main": "index.js",
   "author": "Rowell Heria",
