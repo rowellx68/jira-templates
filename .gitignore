@@ -1,0 +1,7 @@
+*.log
+node_modules
+web-ext-artifacts
+dist/js
+*.pem
+*.zip
+*.crx
