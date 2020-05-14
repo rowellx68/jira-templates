@@ -17,3 +17,5 @@ Jira Templates supercharges your Jira workflow. It allows you to define template
 Some documentation can be found on the homepage listed here.
 
 If you have any comments/questions, send me a tweet @rowellx68.
+
+https://github.com/rowellx68/jira-templates

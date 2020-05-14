@@ -70,13 +70,13 @@ export function mapTicketTypeToSelectOptions(values: string[]): SelectOption[] {
 }
 
 const optionsSchema = object({
-  domains: array(string()).optional(),
+  domains: array(string()).min(1).optional(),
   projectCodes: array(
     object({
-      label: string(),
-      value: string(),
+      label: string().withPredicate(val => val === val.toUpperCase()),
+      value: string().withPredicate(val => val === val.toUpperCase()),
     }),
-  ).optional(),
+  ).min(1).optional(),
 }).and(record(record(string())));
 
 type Options = Infer<typeof optionsSchema>;

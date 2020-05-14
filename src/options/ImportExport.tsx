@@ -113,7 +113,14 @@ const ImportExport: React.FunctionComponent = () => {
                     resize='none'
                     isMonospaced
                   />
-                  {error && <ErrorMessage>{error}</ErrorMessage>}
+                  {error && (
+                    <ErrorMessage>
+                      {error}&nbsp;
+                      <a href='https://rowell.heria.uk/jira-templates#what-is-the-options-schema'>
+                        More info here.
+                      </a>
+                    </ErrorMessage>
+                  )}
                 </React.Fragment>
               )}
             </Field>
