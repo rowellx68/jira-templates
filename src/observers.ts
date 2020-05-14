@@ -90,10 +90,6 @@ const observeDocument = (mutation: MutationRecord) => {
     const key = camelCase(issueTypeInput.value);
     const text = templates[key];
 
-    if (!text) {
-      return;
-    }
-
     setTimeout(() => {
       target.value = text;
       target.focus();
