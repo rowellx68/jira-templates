@@ -13,9 +13,9 @@ Jira Templates supercharges your Jira workflow. It allows you to define template
 
 ## Downloads
 
+- [Chrome](https://chrome.google.com/webstore/detail/hcmiibnefoddlhmdgjkkdkdcfenncfmh)
+- [Edge](https://microsoftedge.microsoft.com/addons/detail/jldfcajijmnoomfkhiefappjmljjmack)
 - [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/jira-templates/)
-- Chrome - _coming soon_
-- Edge - _coming soon_
 
 ---
 
